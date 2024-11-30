@@ -15,3 +15,5 @@ sources:
       - name: suppliers
 
       - name: shippers
+
+      - name: employees
